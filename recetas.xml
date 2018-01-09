@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="recetas.xsl" type="text/xsl"?>
+<libro>
+  <info>
+    SIPC Libro de recetas canarias en XML
+  </info>
+  <receta id="PapasMojo">
+    <titulo>Papas Arrugadas con Mojo</titulo>
+    <ingredientes>
+      <ing>1 Kg. de papas pequeñas</ing>
+      <ing>2 puños (1/4 Kg) de sal</ing>
+      <ing>1 trozo de limón y agua</ing>
+    </ingredientes>
+    <elaboracion>
+      1. Se lavan muy bien las papas, sin quitar la piel y eliminando toda la tierra.
+      2. Se colocan las papas en un caldero junto con la sal y un trozo de limón y cubrimos las papas con agua sin sobrepasar su nivel.
+      Una vez guisadas, se les quita el agua y se colocan nuevamente al fuego sacudiéndolas bien hasta que se sequen (unos dos minutos aproximadamente).
+      3. Se retiran del fuego y se dejan unos minutos tapadas con un paño.
+      4. Por último se sirven en una bandeja y se le añade por encima el mojo.
+    </elaboracion>
+  </receta>
+  <receta id="MojoRojo">
+    <titulo>Mojo Rojo o Picón</titulo>
+    <ingredientes>
+      <ing>1 cabeza de ajo</ing>
+      <ing>2 pimientas piconas</ing>
+      <ing>1 cucharilla de cominos en grano</ing>
+      <ing>1 cucharilla de pimentón</ing>
+      <ing>4 cucharadas de vinagre</ing>
+      <ing>15 cucharadas de aceite de oliva y sal gorda al gusto.</ing>
+    </ingredientes>
+    <elaboracion>
+      1. En un mortero se majan los ajos pelados y picados, los cominos, las pimientas limpias de granillas y la sal gorda, hasta que formen una pasta suave.
+      2. Se le añade el pimentón y lentamente el aceite y el vinagre resultando una pasta espesa.
+      3. Esta pasta se pueda aligerar al gusto con una tacita de agua.
+      <anotaciones>
+        <anota>Este mojo se puede conservar durante meses en la nevera.</anota>
+        <anota>Se puede elaborar una receta de mojo rojo más suave si usamos pimientas dulces en lugar de pimientas piconas.</anota>
+      </anotaciones>
+    </elaboracion>
+  </receta>
+  <receta id="RopaVieja">
+    <titulo>Ropa Vieja</titulo>
+    <ingredientes>
+      <ing>1/2 Kg. de garbanzos</ing>
+      <ing>½ Kg. de carne de vaca</ing>
+      <ing>½ Kg. de carne de pollo</ing>
+      <ing>1 Kg. de papas</ing>
+      <ing>3 dientes de ajos</ing>
+      <ing>1 pimiento</ing>
+      <ing>1 cebolla</ing>
+      <ing>1 tomate</ing>
+      <ing>1 tacita de vino blanco</ing>
+      <ing>1 tacita de agua o caldo</ing>
+      <ing>pimentón</ing>
+      <ing>pimienta</ing>
+      <ing>tomillo</ing>
+      <ing>laurel</ing>
+      <ing>clavos</ing>
+      <ing>sal y aceite</ing>
+    </ingredientes>
+    <elaboracion>
+      1. Se ponen los garbanzos de remojo la noche anterior para que se ablanden.
+      2. Al día siguiente, se lavan y se ponen en un caldero con la carne, la sal y agua.
+      3. Una vez guisado se escurre todo  y se desmenuza la carne.
+      Luego se fríen la carne y los garbanzos hasta que queden crujientes, y se reserva.
+      4. Se hace una fritura aparte con el aceite, la cebolla, el pimiento, el tomate pelado y los ajos, todo picado previamente y se le añade la pimienta y los clavos.
+      5. Una vez hecha la fritura introducimos el pimentón, el vino, el tomillo, el laurel y una tacita de caldo.
+      6. Posteriormente se añade la carne y los garbanzos y se deja unos minutos al fuego.
+      7. Por último, se fríen las papas en dados y se mezcla todo.
+      <anotaciones>
+        <anota>A este plato también se le pueden poner verduras como las zanahorias o habichuelas.</anota>
+        <anota>Para la elaboración de este plato se suelen utilizar los garbanzos y la carne sobrante del puchero.</anota>
+      </anotaciones>
+    </elaboracion>
+  </receta>
+  <receta id="Carajacas">
+    <titulo>Carajacas</titulo>
+    <ingredientes>
+      <ing>1 Kg. de hígado fileteado</ing>
+      <ing>1 cabeza de ajos</ing>
+      <ing>1 pimienta verde</ing>
+      <ing>2 cucharaditas de pimentón</ing>
+      <ing>1 cucharadita de comino en polvo</ing>
+      <ing>1 vaso de vinagre</ing>
+      <ing>aceite de oliva</ing>
+      <ing>orégano y sal al gusto</ing>
+    </ingredientes>
+    <elaboracion>
+      1. Se hace un majado con los ajos, la pimienta, el comino, el perejil y la sal.
+      Luego se le añade el aceite, el vinagre, el pimentón, el orégano y se mezcla bien
+      2. Con este majado se adoba el hígado y se deja macerar de 4 a 5 horas.
+      3. Posteriormente se pasan los filetes de hígado por la sartén con el mismo adobo, sin aceite y se coloca en una cazuela de barro.
+      Se cubre con el adobo sobrante y se hierve durante unos minutos.
+      <anotaciones>
+        <anota>Este plato se sirve con papas arrugadas o sancochadas.</anota>
+      </anotaciones>
+    </elaboracion>
+  </receta>
+  <receta id="RanchoCanario">
+    <titulo>Rancho Canario</titulo>
+    <ingredientes>
+      <ing>1/2 Kg. de garbanzos</ing>
+      <ing>1/4 Kg. de carne de vaca</ing>
+      <ing>1/4 Kg. de pollo</ing>
+      <ing>100gr. de fideos gruesos</ing>
+      <ing>½ Kg. de papas</ing>
+      <ing>1 cabeza de ajo</ing>
+      <ing>1 cebolla</ing>
+      <ing>1 tomate</ing>
+      <ing>2 ramitas de perejil</ing>
+      <ing>1 cucharadita de pimentón</ing>
+      <ing>1 tacita de aceite</ing>
+      <ing>1 tacita de vino blanco</ing>
+      <ing>azafrán</ing>
+      <ing>laurel, sal y agua</ing>
+    </ingredientes>
+    <elaboracion>
+      1. Se ponen los garbanzos de remojo la noche anterior para que se ablanden.
+      2. Al día siguiente, se lavan y se introducen en un caldero con la carne y con dos litros de agua calentados previamente y se deja al fuego para que se cocinen, al menos una hora y sin destapar.
+      3. Mientras, se hace una fritura con el aceite, la cebolla, el ajo y el tomate, añadiéndole, por último, el pimentón.
+      4. Una vez guisados los garbanzos y la carne, se les añade la fritura, las papas troceadas, la sal, el azafrán, el tomillo, el laurel y el vino blanco, dejándolo al fuego unos diez minutos.
+      5. Por último, cuando las papas estén casi guisadas se añaden los fideos y se deja otros cinco minutos.
+    </elaboracion>
+  </receta>
+  <receta id="CaldoPapasCilantro">
+    <titulo>Caldo con Papas y Cilantro</titulo>
+    <ingredientes>
+      <ing>1 Kg. de papas</ing>
+      <ing>1 cebolla</ing>
+      <ing>2 tomates</ing>
+      <ing>½ pimiento rojo</ing>
+      <ing>½ pimiento verde</ing>
+      <ing>1 huevo por persona</ing>
+      <ing>1 ramita de cilantro</ing>
+      <ing>sal, aceite y azafrán</ing>
+    </ingredientes>
+    <elaboracion>
+      1. En un caldero con agua se ponen las papas peladas y troceadas, la cebolla  y los pimientos en trozos, el tomate pelado y limpio, un vasito de aceite, el azafrán, la sal y una ramita de cilantro y se deja guisar.
+      2. Cuando las papas estén cocidas, y sin retirar del fuego, se cascan los huevos crudos dentro y se deja unos minutos hasta que los huevos estén hechos.
+    </elaboracion>
+  </receta>
+  <receta id="ConejoSalmorejo">
+    <titulo>Conejo en Salmorejo</titulo>
+    <ingredientes>
+      <ing>1 conejo troceado</ing>
+      <ing>2 cabezas de ajo</ing>
+      <ing>1 pimienta picona</ing>
+      <ing>1 vaso de vino blanco</ing>
+      <ing>3 cucharadas de vinagre</ing>
+      <ing>1 vaso de aceite</ing>
+      <ing>pimentón</ing>
+      <ing>comino y sal al gusto</ing>
+    </ingredientes>
+    <elaboracion>
+      1. Se coloca el conejo en una fuente.
+      2. Aparte se prepara un majado con los ajos, la pimienta, el comino y la sal y se le añade el vinagre, el vino, el aceite, el pimentón y se mezcla bien.
+      3. Se vierte el majado sobre el conejo y se deja macerar toda la noche.
+      4. Al día siguiente se fríe el conejo y se coloca en una cazuela de barro añadiendo el majado sobrante y se pone un rato a fuego lento.
+      5. Se sirve acompañado de papas arrugadas.
+      <anotaciones>
+        <anota>Otra posibilidad es asar el conejo a fuego lento en lugar de freírlo.</anota>
+      </anotaciones>
+    </elaboracion>
+  </receta>
+  <receta id="Bienmesabe">
+    <titulo>Bienmesabe</titulo>
+    <ingredientes>
+      <ing>1/2 Kg. de almendras</ing>
+      <ing>¾ Kg. de azúcar</ing>
+      <ing>3 yemas de huevo</ing>
+      <ing>½ litro de agua</ing>
+      <ing>canela molida</ing>
+      <ing>limón verde rallado</ing>
+    </ingredientes>
+    <elaboracion>
+      1. Se hace un almíbar diluyendo el azúcar en el agua caliente y se le añaden las almendras peladas y molidas, la canela y la ralladura de limón.
+      2. Se pone al fuego lento, removiendo sin parar, hasta que quede bien espeso y se deja enfriar.
+      3. Cuando esté frío le añadimos las yemas batidas, sin dejar de remover, y se coloca nuevamente al fuego hasta que hierva.
+      4. A la hora de servir, colocamos en un plato dos bolas de helado de los sabores que se quiera y se riega con el bienmesabe ya frío.
+    </elaboracion>
+  </receta>
+</libro>

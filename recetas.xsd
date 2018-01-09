@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs = "recetas.xml">
+  <xs:element name="libro">
+    <xs:complexType>
+      <xs:sequence>
+          <xs:element name="info" type="xs:string" />
+      </xs:sequence>
+      <xs:element name="receta" maxOccurs="unbounded" type="xs:string">
+        <xs:complexType>
+            <xs:sequence>
+              <xs:element name="titulo" type="xs:string" />
+              <xs:element name="ingredientes" type="xs:string">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="ing" maxOccurs="unbounded" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="elaboracion" type="xs:string" />
+              <xs:element name="anotaciones" type="xs:string" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="anota" maxOccurs="unbounded" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
